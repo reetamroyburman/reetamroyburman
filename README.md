@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>🔭 I’m currently working on Oneorigin </h4>
-<h4>🌱 I’m currently learning DevOps</h4>
+<h4>🔭 I’m currently working At Oneorigin</h4>
+<h4>🌱 I’m currently learning <b>DevOps</b></h4>
 <h4>🤝 I’m looking for a new role Software Engineer</h4>
