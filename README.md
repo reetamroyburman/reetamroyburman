@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h4>🔭 I’m FullStack Developer At Oneorigin</h4>
 <h4>🌱 I’m currently learning <b>DevOps</b></h4>
-<h4>🤝 I’m looking for a new role Software Engineer</h4>
+<!-- <h4>🤝 I’m looking for a new role Software Engineer</h4> -->
